@@ -1,4 +1,4 @@
 hello world
 branch master
 branch dev
-dev
+dev master
